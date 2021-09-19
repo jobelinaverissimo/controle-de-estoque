@@ -5,4 +5,4 @@ Jobelina Verissimo de Souza  - RA:1904727
 Rafael da silva Frois - RA:1905216
 Rafael Aparecido Trintinalia Igreja - RA:1904914
 Diego Soares e Souza - RA:1905315
-linguagem C#
+linguagem Python
